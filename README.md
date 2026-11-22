@@ -56,7 +56,7 @@ A task management web application developed using Vue.js, designed to help users
 
 A web application developed using Angular, focused on managing salon appointments through a modern user interface.
 
-💻 **GitHub Repository:** [https://github.com/USERNAME/salon-booking](https://github.com/1Marius22/Salon-Booking)
+💻 **GitHub Repository:** [https://github.com/1Marius22/salon-booking](https://github.com/1Marius22/Salon-Booking)
 
 ## 📚 Currently Learning
 
